@@ -1,11 +1,12 @@
 <?php
 /**
  * Plugin Name: Youtube subscriber button
- * Plugin URI: https://www.aizo9.com
+ * Plugin URI: https://www.funtechstic.com
  * Author: Mitesh vaghela
- * Author URI: https://www.aizo9.com
+ * Author URI: https://www.funtechstic.com
  * Description: Youtube subscriber button. 
- * Version: 1.0.0
+ * Date : 21-5-2022
+ * Version: 1.0.1
 */
 
 if(!defined('ABSPATH')){

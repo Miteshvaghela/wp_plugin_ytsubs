@@ -5,8 +5,8 @@
  * Author: Mitesh vaghela
  * Author URI: https://www.funtechstic.com
  * Description: Youtube subscriber button. 
- * Date : 21-5-2022
- * Version: 1.0.1
+ * Date : 23-5-2022
+ * Version: 1.0.2
 */
 
 if(!defined('ABSPATH')){

@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Youtube subscriber button
- * Plugin URI: https://www.funtechstic.com
+ * Plugin Name: Youtube subscriber button in wordpress
+ * Plugin URI: https://www.funtechstic.com/wordpress/plugins
  * Author: Mitesh vaghela
  * Author URI: https://www.funtechstic.com
  * Description: Youtube subscriber button. 

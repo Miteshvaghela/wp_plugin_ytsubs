@@ -13,6 +13,7 @@ if(!defined('ABSPATH')){
     exit('Unauthorized access');
 }
 
+// this plugin shows your youtube subscriber number.
 
 require_once(plugin_dir_path(__FILE__).'/includes/yt-scripts.php');
 require_once(plugin_dir_path(__FILE__).'/includes/yt-styles.php');

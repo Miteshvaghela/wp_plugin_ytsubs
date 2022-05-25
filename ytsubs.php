@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Youtube subscriber button in wordpress
- * Plugin URI: https://www.funtechstic.com/wordpress/plugins
+ * Plugin URI: https://www.funtechstic.com/
  * Author: Mitesh vaghela
  * Author URI: https://www.funtechstic.com
  * Description: Youtube subscriber button. 
@@ -15,7 +15,7 @@ if(!defined('ABSPATH')){
 
 
 require_once(plugin_dir_path(__FILE__).'/includes/yt-scripts.php');
-
+require_once(plugin_dir_path(__FILE__).'/includes/yt-styles.php');
 require_once(plugin_dir_path(__FILE__).'/includes/yt-include.class.php');
 
 function register_ytsubs_widget(){

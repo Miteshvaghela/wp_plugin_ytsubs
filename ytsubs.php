@@ -14,6 +14,7 @@ if(!defined('ABSPATH')){
 }
 
 // this plugin shows your youtube subscriber number.
+// I'm going to update this plugin and make it compatible with latest version of wordpress and php.
 
 require_once(plugin_dir_path(__FILE__).'/includes/yt-scripts.php');
 require_once(plugin_dir_path(__FILE__).'/includes/yt-styles.php');

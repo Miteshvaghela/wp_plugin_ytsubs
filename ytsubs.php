@@ -14,6 +14,7 @@ if(!defined('ABSPATH')){
 }
 
 // this plugin shows your youtube subscriber number.
+// this plugin will show count of youtube subscribers and other channel information.
 
 require_once(plugin_dir_path(__FILE__).'/includes/yt-scripts.php');
 require_once(plugin_dir_path(__FILE__).'/includes/yt-styles.php');
